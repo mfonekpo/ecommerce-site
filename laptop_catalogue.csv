@@ -1,0 +1,49 @@
+laptop_name,description,price,reviews,product_link
+Packard 255 G2,"15.6"", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",$416.99,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/516
+Aspire E1-510,"15.6"", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",$306.99,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/517
+ThinkPad T540p,"15.6"", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",$1178.99,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/518
+ProBook,"14"", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",$739.99,8 reviews,https://webscraper.io/test-sites/e-commerce/static/product/519
+ThinkPad X240,"12.5"", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",$1311.99,12 reviews,https://webscraper.io/test-sites/e-commerce/static/product/520
+Aspire E1-572G,"15.6"", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",$581.99,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/521
+ThinkPad Yoga,"12.5"" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",$1033.99,13 reviews,https://webscraper.io/test-sites/e-commerce/static/product/522
+Pavilion,"15.6"", Core i5-4200U, 6GB, 750GB, Windows 8.1",$609.99,4 reviews,https://webscraper.io/test-sites/e-commerce/static/product/523
+Inspiron 15,"Moon Silver, 15.6"", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",$745.99,12 reviews,https://webscraper.io/test-sites/e-commerce/static/product/524
+Dell XPS 13,"13.3"" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",$1281.99,4 reviews,https://webscraper.io/test-sites/e-commerce/static/product/525
+ThinkPad X230,"12.5"", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",$1244.99,10 reviews,https://webscraper.io/test-sites/e-commerce/static/product/526
+HP 250 G3,"15.6"", Core i5-4210U, 4GB, 500GB, Windows 8.1",$520.99,13 reviews,https://webscraper.io/test-sites/e-commerce/static/product/527
+ThinkPad Yoga,"12.5"" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",$1223.99,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/528
+HP 350 G1,"15.6"", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",$577.99,10 reviews,https://webscraper.io/test-sites/e-commerce/static/product/529
+Asus VivoBook Ma...,"Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6"" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",$399.00,4 reviews,https://webscraper.io/test-sites/e-commerce/static/product/530
+Dell Vostro 15,"Dell Vostro 15 (3568) Black, 15.6"" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",$488.78,14 reviews,https://webscraper.io/test-sites/e-commerce/static/product/531
+Acer Spin 5,"Acer Spin 5 SP513-51 Black, 13.3"" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",$564.98,0 reviews,https://webscraper.io/test-sites/e-commerce/static/product/532
+Acer Aspire A515...,"Acer Aspire A515-51-5654, Black, 15.6"", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",$679.00,9 reviews,https://webscraper.io/test-sites/e-commerce/static/product/533
+Dell Inspiron 15,"Dell Inspiron 15 (5567) Fog Gray, 15.6"" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",$679.00,7 reviews,https://webscraper.io/test-sites/e-commerce/static/product/534
+Asus VivoBook S1...,"Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14"", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",$729.00,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/535
+Asus ROG STRIX G...,"Asus ROG STRIX GL553VD-DM256, 15.6"" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",$799.00,7 reviews,https://webscraper.io/test-sites/e-commerce/static/product/536
+Acer Nitro 5 AN5...,"Acer Nitro 5 AN515-51, 15.6"" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",$809.00,0 reviews,https://webscraper.io/test-sites/e-commerce/static/product/537
+Asus ROG STRIX G...,"Asus ROG STRIX GL553VD-DM256, 15.6"" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",$899.00,7 reviews,https://webscraper.io/test-sites/e-commerce/static/product/538
+Lenovo ThinkPad...,"Lenovo ThinkPad L570, 15.6"" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",$999.00,11 reviews,https://webscraper.io/test-sites/e-commerce/static/product/539
+Lenovo Legion Y5...,"Lenovo Legion Y520-15IKBM, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",$1149.00,11 reviews,https://webscraper.io/test-sites/e-commerce/static/product/540
+Lenovo Legion Y7...,"Lenovo Legion Y720, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",$1399.00,8 reviews,https://webscraper.io/test-sites/e-commerce/static/product/541
+Asus ROG Strix G...,"Asus ROG Strix GL702ZC-GC154T, 17.3"" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",$1769.00,7 reviews,https://webscraper.io/test-sites/e-commerce/static/product/542
+Asus ROG Strix G...,"Asus ROG Strix GL702ZC-GC209T, 17.3"" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",$1769.00,8 reviews,https://webscraper.io/test-sites/e-commerce/static/product/543
+Asus ROG Strix S...,"Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6"" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",$1799.00,8 reviews,https://webscraper.io/test-sites/e-commerce/static/product/544
+Asus VivoBook X4...,"Asus VivoBook X441NA-GA190 Chocolate Black, 14"", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",$295.99,14 reviews,https://webscraper.io/test-sites/e-commerce/static/product/545
+Prestigio SmartB...,"Prestigio SmartBook 133S Dark Grey, 13.3"" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",$299.00,8 reviews,https://webscraper.io/test-sites/e-commerce/static/product/546
+Prestigio SmartB...,"Prestigio SmartBook 133S Gold, 13.3"" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",$299.00,12 reviews,https://webscraper.io/test-sites/e-commerce/static/product/547
+Lenovo V110-15IA...,"Lenovo V110-15IAP, 15.6"" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",$321.94,5 reviews,https://webscraper.io/test-sites/e-commerce/static/product/548
+Lenovo V110-15IA...,"Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6"" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",$356.49,6 reviews,https://webscraper.io/test-sites/e-commerce/static/product/549
+Hewlett Packard...,"Hewlett Packard 250 G6 Dark Ash Silver, 15.6"" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS",$364.46,12 reviews,https://webscraper.io/test-sites/e-commerce/static/product/550
+Acer Aspire 3 A3...,"Acer Aspire 3 A315-31 Black, 15.6"" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",$372.70,2 reviews,https://webscraper.io/test-sites/e-commerce/static/product/551
+Acer Aspire A315...,"Acer Aspire A315-31-C33J Black 15.6"", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",$379.94,0 reviews,https://webscraper.io/test-sites/e-commerce/static/product/552
+Acer Aspire ES1-...,"Acer Aspire ES1-572 Black, 15.6"" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",$379.95,9 reviews,https://webscraper.io/test-sites/e-commerce/static/product/553
+Acer Aspire 3 A3...,"Acer Aspire 3 A315-31 Black, 15.6"" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",$391.48,10 reviews,https://webscraper.io/test-sites/e-commerce/static/product/554
+Acer Aspire 3 A3...,"Acer Aspire 3 A315-21, 15.6"", AMD A4-9120. 4GB. 128GB SSD, Linux",$393.88,9 reviews,https://webscraper.io/test-sites/e-commerce/static/product/555
+Asus VivoBook E5...,"Asus VivoBook E502NA-GO022T Dark Blue, 15.6"" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",$399.99,3 reviews,https://webscraper.io/test-sites/e-commerce/static/product/556
+Lenovo ThinkPad...,"Lenovo ThinkPad E31-80, 13.3"" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",$404.23,12 reviews,https://webscraper.io/test-sites/e-commerce/static/product/557
+Acer Aspire 3 A3...,"Acer Aspire 3 A315-31 Black, 15.6"" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",$408.98,10 reviews,https://webscraper.io/test-sites/e-commerce/static/product/558
+Lenovo V110-15IS...,"Lenovo V110-15ISK, 15.6"" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",$409.63,9 reviews,https://webscraper.io/test-sites/e-commerce/static/product/559
+Acer Aspire ES1-...,"Acer Aspire ES1-732 Black, 17.3"" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home",$410.46,14 reviews,https://webscraper.io/test-sites/e-commerce/static/product/560
+Asus VivoBook 15...,"Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6"" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",$410.66,4 reviews,https://webscraper.io/test-sites/e-commerce/static/product/561
+Asus EeeBook R41...,"Asus EeeBook R416NA-FA014T, 14"" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd",$433.30,1 reviews,https://webscraper.io/test-sites/e-commerce/static/product/562
+Acer Aspire 3 A3...,"Acer Aspire 3 A315-51, 15.6"" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home",$436.29,1 reviews,https://webscraper.io/test-sites/e-commerce/static/product/563

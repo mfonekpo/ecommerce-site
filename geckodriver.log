@@ -1,0 +1,707 @@
+1648038894476	geckodriver	INFO	Listening on 127.0.0.1:40637
+1648038895251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebz3Tvs"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648038896423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebz3Tvs/search.json.mozlz4", (void 0)))
+1648038903202	Marionette	INFO	Listening on port 38591
+1648038903578	Marionette	INFO	Stopped listening on port 38591
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 216: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavBookmarksService.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1648038903804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.enable :: line 46"  data: no]
+allowAllCerts.enable@chrome://remote/content/marionette/cert.js:46:23
+WebDriverSession@chrome://remote/content/shared/webdriver/Session.jsm:46:21
+GeckoDriver.prototype.newSession@chrome://remote/content/marionette/driver.js:484:25
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+Exiting due to channel error.
+Exiting due to channel error.
+1648038928184	geckodriver	INFO	Listening on 127.0.0.1:41693
+1648038928202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4ERDpK"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648038928992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4ERDpK/search.json.mozlz4", (void 0)))
+1648038934554	Marionette	INFO	Listening on port 32849
+1648038934716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648038948118	Marionette	INFO	Stopped listening on port 32849
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648039102611	geckodriver	INFO	Listening on 127.0.0.1:59581
+1648039102632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXF4egg"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648039103427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXF4egg/search.json.mozlz4", (void 0)))
+1648039109478	Marionette	INFO	Listening on port 36709
+1648039109587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:5641): GLib-GObject-WARNING **: 12:39:11.187: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f8b15ea1350' of type 'MaiAtkType139'
+
+(firefox-esr:5641): GLib-GObject-WARNING **: 12:39:11.187: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f8b15ea1650' of type 'MaiAtkType139'
+1648039154764	Marionette	INFO	Stopped listening on port 36709
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648039280576	geckodriver	INFO	Listening on 127.0.0.1:59429
+1648039280628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKohz72"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648039281357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKohz72/search.json.mozlz4", (void 0)))
+1648039286880	Marionette	INFO	Listening on port 40019
+1648039287006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039325312	geckodriver	INFO	Listening on 127.0.0.1:40613
+1648039325353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBuqxZu"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648039326100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBuqxZu/search.json.mozlz4", (void 0)))
+1648039331766	Marionette	INFO	Listening on port 46459
+1648039331812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039333618	Marionette	INFO	Stopped listening on port 40019
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox-esr:6214): GLib-GObject-WARNING **: 12:42:36.072: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f55c46c92f0' of type 'MaiAtkType139'
+
+(firefox-esr:6214): GLib-GObject-WARNING **: 12:42:36.072: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f55c46c9bf0' of type 'MaiAtkType139'
+1648039358595	Marionette	INFO	Stopped listening on port 46459
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648039439796	geckodriver	INFO	Listening on 127.0.0.1:47139
+1648039439819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepRRjku"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648039440615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepRRjku/search.json.mozlz4", (void 0)))
+1648039446053	Marionette	INFO	Listening on port 45511
+1648039446207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648039469151	Marionette	INFO	Stopped listening on port 45511
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648039947890	geckodriver	INFO	Listening on 127.0.0.1:41729
+1648039947915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecuY3rE"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648039948660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecuY3rE/search.json.mozlz4", (void 0)))
+1648039954104	Marionette	INFO	Listening on port 46289
+1648039954173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648039970672	Marionette	INFO	Stopped listening on port 46289
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648040162285	geckodriver	INFO	Listening on 127.0.0.1:50257
+1648040162323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileL2nC39"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040163086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL2nC39/search.json.mozlz4", (void 0)))
+1648040168264	Marionette	INFO	Listening on port 42611
+1648040168454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040221746	Marionette	INFO	Stopped listening on port 42611
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648040260315	geckodriver	INFO	Listening on 127.0.0.1:49281
+1648040260335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilel4JEPx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040261092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel4JEPx/search.json.mozlz4", (void 0)))
+1648040266860	Marionette	INFO	Listening on port 34073
+1648040267368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040281038	Marionette	INFO	Stopped listening on port 34073
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1648040351375	geckodriver	INFO	Listening on 127.0.0.1:54579
+1648040351389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexSQEd2"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040352136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexSQEd2/search.json.mozlz4", (void 0)))
+1648040357413	Marionette	INFO	Listening on port 45977
+1648040357596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040677647	geckodriver	INFO	Listening on 127.0.0.1:52865
+1648040677666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejnMF6R"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040678399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejnMF6R/search.json.mozlz4", (void 0)))
+1648040684028	Marionette	INFO	Listening on port 36697
+1648040684151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040684853	Marionette	INFO	Stopped listening on port 45977
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648040758768	geckodriver	INFO	Listening on 127.0.0.1:48245
+1648040758793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletx3h1i"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040759545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletx3h1i/search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 172: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+1648040769771	Marionette	INFO	Stopped listening on port 36697
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648040771492	geckodriver	INFO	Listening on 127.0.0.1:49285
+1648040771521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOurAsM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648040772341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOurAsM/search.json.mozlz4", (void 0)))
+1648040777567	Marionette	INFO	Listening on port 33575
+1648040777715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648040801606	Marionette	INFO	Stopped listening on port 33575
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648041708028	geckodriver	INFO	Listening on 127.0.0.1:37509
+1648041708056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQMXXMA"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648041708822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQMXXMA/search.json.mozlz4", (void 0)))
+1648041714205	Marionette	INFO	Listening on port 33387
+1648041714385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648041742355	Marionette	INFO	Stopped listening on port 33387
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648041754910	geckodriver	INFO	Listening on 127.0.0.1:55351
+1648041754940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWWkVHI"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648041755718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWWkVHI/search.json.mozlz4", (void 0)))
+1648041761403	Marionette	INFO	Listening on port 33321
+1648041761496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648041822726	Marionette	INFO	Stopped listening on port 33321
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648041825006	geckodriver	INFO	Listening on 127.0.0.1:43809
+1648041825022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6FmsaQ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648041825802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6FmsaQ/search.json.mozlz4", (void 0)))
+1648041831080	Marionette	INFO	Listening on port 44611
+1648041831163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648046635734	Marionette	INFO	Stopped listening on port 44611
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648046743286	geckodriver	INFO	Listening on 127.0.0.1:46737
+1648046744255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDFKIAy"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648046745145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDFKIAy/search.json.mozlz4", (void 0)))
+1648046751766	Marionette	INFO	Listening on port 35849
+1648046751857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648046799327	Marionette	INFO	Stopped listening on port 35849
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648049809134	geckodriver	INFO	Listening on 127.0.0.1:48199
+1648049809205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSBI0Fh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648049810195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSBI0Fh/search.json.mozlz4", (void 0)))
+1648049815674	Marionette	INFO	Listening on port 37129
+1648049815820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648049866980	Marionette	INFO	Stopped listening on port 37129
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648049908297	geckodriver	INFO	Listening on 127.0.0.1:52203
+1648049908366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileL8Fwg5"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648049909146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL8Fwg5/search.json.mozlz4", (void 0)))
+1648049914260	Marionette	INFO	Listening on port 39103
+1648049914329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648049963780	geckodriver	INFO	Listening on 127.0.0.1:48525
+1648049963807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletmnmjC"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648049964563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmnmjC/search.json.mozlz4", (void 0)))
+1648049969138	Marionette	INFO	Stopped listening on port 39103
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648049970245	Marionette	INFO	Listening on port 35665
+1648049970510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648050226861	Marionette	INFO	Stopped listening on port 35665
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648050486535	geckodriver	INFO	Listening on 127.0.0.1:50787
+1648050486561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexVV6f4"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648050487323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexVV6f4/search.json.mozlz4", (void 0)))
+1648050492848	Marionette	INFO	Listening on port 40611
+1648050492953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648050546763	Marionette	INFO	Stopped listening on port 40611
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648050551614	geckodriver	INFO	Listening on 127.0.0.1:48185
+1648050551672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGrvAmz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648050552392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGrvAmz/search.json.mozlz4", (void 0)))
+1648050557775	Marionette	INFO	Listening on port 35445
+1648050557827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648050574443	Marionette	INFO	Stopped listening on port 35445
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648050664045	geckodriver	INFO	Listening on 127.0.0.1:46805
+1648050664064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilen70Ah2"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648050664901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen70Ah2/search.json.mozlz4", (void 0)))
+1648050671063	Marionette	INFO	Listening on port 41671
+1648050671177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648050699067	Marionette	INFO	Stopped listening on port 41671
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648051309140	geckodriver	INFO	Listening on 127.0.0.1:56785
+1648051309157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepztpOc"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648051309907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepztpOc/search.json.mozlz4", (void 0)))
+1648051315449	Marionette	INFO	Listening on port 41713
+1648051315526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648051351327	Marionette	INFO	Stopped listening on port 41713
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648051389740	geckodriver	INFO	Listening on 127.0.0.1:52225
+1648051389760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVNhaxx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648051390499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVNhaxx/search.json.mozlz4", (void 0)))
+1648051395808	Marionette	INFO	Listening on port 43965
+1648051395963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648051422989	Marionette	INFO	Stopped listening on port 43965
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648051444472	geckodriver	INFO	Listening on 127.0.0.1:40255
+1648051444551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledDRUEA"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648051445276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledDRUEA/search.json.mozlz4", (void 0)))
+1648051450755	Marionette	INFO	Listening on port 39489
+1648051450970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648051490015	Marionette	INFO	Stopped listening on port 39489
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648051538210	geckodriver	INFO	Listening on 127.0.0.1:60275
+1648051538249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelXzI2N"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648051539041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelXzI2N/search.json.mozlz4", (void 0)))
+1648051545080	Marionette	INFO	Listening on port 39249
+1648051545230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648051569350	Marionette	INFO	Stopped listening on port 39249
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648380941497	geckodriver	INFO	Listening on 127.0.0.1:59875
+1648380942350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileivZb2O"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648380943373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileivZb2O/search.json.mozlz4", (void 0)))
+1648380950579	Marionette	INFO	Listening on port 35073
+1648380950881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648380995000	Marionette	INFO	Stopped listening on port 35073
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648381176668	geckodriver	INFO	Listening on 127.0.0.1:47307
+1648381176696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefdZ21e"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648381177404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefdZ21e/search.json.mozlz4", (void 0)))
+1648381182923	Marionette	INFO	Listening on port 40355
+1648381183070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648381216847	Marionette	INFO	Stopped listening on port 40355
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648381845858	geckodriver	INFO	Listening on 127.0.0.1:34803
+1648381845874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledVBt4s"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648381846619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledVBt4s/search.json.mozlz4", (void 0)))
+1648381851677	Marionette	INFO	Listening on port 41545
+1648381851720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648382104314	geckodriver	INFO	Listening on 127.0.0.1:41609
+1648382104519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZluAa6"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648382106692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZluAa6/search.json.mozlz4", (void 0)))
+1648382112907	Marionette	INFO	Listening on port 45013
+1648382113038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648382134967	Marionette	INFO	Stopped listening on port 41545
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648382146655	Marionette	INFO	Stopped listening on port 45013
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648382490855	geckodriver	INFO	Listening on 127.0.0.1:34411
+1648382490883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXPB1Vo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648382492701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXPB1Vo/search.json.mozlz4", (void 0)))
+1648382497982	Marionette	INFO	Listening on port 38211
+1648382498028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648382509089	geckodriver	INFO	Listening on 127.0.0.1:40041
+1648382509151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegO6HJV"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648382509966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegO6HJV/search.json.mozlz4", (void 0)))
+1648382515745	Marionette	INFO	Listening on port 35067
+1648382515836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648382517465	Marionette	INFO	Stopped listening on port 35067
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1648382519110	Marionette	INFO	Stopped listening on port 38211
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1648382849804	geckodriver	INFO	Listening on 127.0.0.1:60575
+1648382850782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileq82p16"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648382851960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq82p16/search.json.mozlz4", (void 0)))
+1648382860147	Marionette	INFO	Listening on port 39863
+1648382860321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648382887822	Marionette	INFO	Stopped listening on port 39863
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648382902762	geckodriver	INFO	Listening on 127.0.0.1:37793
+1648382902781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXd19EB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648382904256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXd19EB/search.json.mozlz4", (void 0)))
+1648382911374	Marionette	INFO	Listening on port 35755
+1648382911622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648382991262	Marionette	INFO	Stopped listening on port 35755
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648383098526	geckodriver	INFO	Listening on 127.0.0.1:54225
+1648383098550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileReYFnt"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648383099660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileReYFnt/search.json.mozlz4", (void 0)))
+1648383107288	Marionette	INFO	Listening on port 46807
+1648383107473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648383137307	Marionette	INFO	Stopped listening on port 46807
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648383210833	geckodriver	INFO	Listening on 127.0.0.1:41707
+1648383210992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQyeITe"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648383212096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQyeITe/search.json.mozlz4", (void 0)))
+1648383218563	Marionette	INFO	Listening on port 40581
+1648383218644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+
+(firefox-esr:9954): GLib-GObject-WARNING **: 12:14:13.359: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f438931d7d0' of type 'MaiAtkType139'
+
+(firefox-esr:9954): GLib-GObject-WARNING **: 12:14:13.359: ../../../gobject/gsignal.c:3596: signal name 'load_complete' is invalid for instance '0x7f438931dc50' of type 'MaiAtkType139'
+console.warn: "Resource  of root-node was not found."
+1648383296047	geckodriver	INFO	Listening on 127.0.0.1:46657
+1648383296070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile59bgMv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648383298390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile59bgMv/search.json.mozlz4", (void 0)))
+1648383305244	Marionette	INFO	Stopped listening on port 40581
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648383308069	Marionette	INFO	Listening on port 34509
+1648383308158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648383342575	Marionette	INFO	Stopped listening on port 34509
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648383496178	geckodriver	INFO	Listening on 127.0.0.1:50365
+1648383496220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEwksQz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648383497783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEwksQz/search.json.mozlz4", (void 0)))
+1648383505401	Marionette	INFO	Listening on port 39199
+1648383505481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648383531126	Marionette	INFO	Stopped listening on port 39199
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648386542738	geckodriver	INFO	Listening on 127.0.0.1:43203
+1648386542941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN3R11l"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648386547546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN3R11l/search.json.mozlz4", (void 0)))
+1648386560033	Marionette	INFO	Listening on port 41019
+1648386560408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648386614802	Marionette	INFO	Stopped listening on port 41019
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648386746235	geckodriver	INFO	Listening on 127.0.0.1:41181
+1648386746385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilec5nIWD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648386747665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec5nIWD/search.json.mozlz4", (void 0)))
+1648386753385	Marionette	INFO	Listening on port 36453
+1648386753458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648386766697	Marionette	INFO	Stopped listening on port 36453
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648386817523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePr8UNI"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648386818193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePr8UNI/search.json.mozlz4", (void 0)))
+1648386823907	Marionette	INFO	Listening on port 36863
+1648386823991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648386874739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP0Nrnz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648386875409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP0Nrnz/search.json.mozlz4", (void 0)))
+1648386883416	Marionette	INFO	Listening on port 38179
+1648386883530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648386888355	Marionette	INFO	Stopped listening on port 36863
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648387714299	geckodriver	INFO	Listening on 127.0.0.1:60633
+1648387714324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRn70U1"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648387715185	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRn70U1/search.json.mozlz4", (void 0)))
+1648387721069	Marionette	INFO	Stopped listening on port 38179
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648387721162	Marionette	INFO	Listening on port 34767
+1648387721263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648387868074	Marionette	INFO	Stopped listening on port 34767
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648387912164	geckodriver	INFO	Listening on 127.0.0.1:43937
+1648387912189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileM8FLYn"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648387912899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM8FLYn/search.json.mozlz4", (void 0)))
+1648387918373	Marionette	INFO	Listening on port 44491
+1648387918521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648387944319	Marionette	INFO	Stopped listening on port 44491
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648387963565	geckodriver	INFO	Listening on 127.0.0.1:50395
+1648387963593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebVo8SP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648387964369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebVo8SP/search.json.mozlz4", (void 0)))
+1648387971714	Marionette	INFO	Listening on port 36153
+1648387971813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648388202507	Marionette	INFO	Stopped listening on port 36153
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648388560135	geckodriver	INFO	Listening on 127.0.0.1:34091
+1648388560172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVJKyUw"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648388560873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVJKyUw/search.json.mozlz4", (void 0)))
+1648388566315	Marionette	INFO	Listening on port 46147
+1648388566447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648388816746	Marionette	INFO	Stopped listening on port 46147
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648388819332	geckodriver	INFO	Listening on 127.0.0.1:60773
+1648388819362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0nzoZK"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648388820036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0nzoZK/search.json.mozlz4", (void 0)))
+1648388825793	Marionette	INFO	Listening on port 44365
+1648388825892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648388941727	geckodriver	INFO	Listening on 127.0.0.1:58851
+1648388941749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6UuKdm"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648388942453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6UuKdm/search.json.mozlz4", (void 0)))
+1648388949184	Marionette	INFO	Listening on port 36681
+1648388949253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648388960181	Marionette	INFO	Stopped listening on port 44365
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648389152772	Marionette	INFO	Stopped listening on port 36681
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648389184044	geckodriver	INFO	Listening on 127.0.0.1:36945
+1648389185097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezKZjYX"
+console.error: Enterprise Policies: 
+  Error parsing JSON file: SyntaxError: JSON.parse: expected double-quoted property name at line 16 column 5 of the JSON data
+1648389185753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezKZjYX/search.json.mozlz4", (void 0)))
+1648389192603	Marionette	INFO	Listening on port 36615
+1648389192710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648389218594	Marionette	INFO	Stopped listening on port 36615
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
